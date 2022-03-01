@@ -1,0 +1,443 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvveeds teares of joy, to Charles great Brittains king.</title>
+            <author>Lauder, George, b. ca. 1600.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1639</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00247</idno>
+            <idno type="STC">STC 15313.5</idno>
+            <idno type="STC">ESTC S93433</idno>
+            <idno type="EEBO-CITATION">54532380</idno>
+            <idno type="OCLC">ocm 54532380</idno>
+            <idno type="VID">180812</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180812)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2137:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvveeds teares of joy, to Charles great Brittains king.</title>
+                  <author>Lauder, George, b. ca. 1600.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Bryson?,</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>1639].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>In verse.</note>
+                  <note>Attributed to George Lauder by STC (2nd ed.).</note>
+                  <note>Place and date suggested by STC (2nd ed.); name of printer from NLS.</note>
+                  <note>Reproduction of original in: National library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Poetry.</term>
+               <term>Scottish poetry --  To 1700.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-10</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:180812:1"/>
+            <!-- PDF PAGE 6 -->
+            <pb facs="tcp:180812:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 6 -->
+            <head>TVVEEDS Teares of joy, to CHARLES great Brittains King.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">R</seg>Uſh forth my billows in the roaring maine,</l>
+               <l>And rouſe the <hi>Tritons</hi> of old Neptunes traine,</l>
+               <l>Through the yaſt Ocean of the furtheſt ſhore,</l>
+               <l>To publiſh theſe our joyes and triumphs o're</l>
+               <l>The watrie world, whilſt long-wingd flying fame,</l>
+               <l>To <hi>Nile</hi> and <hi>Ganges</hi> dwellers doth proclaime</l>
+               <l>Our feaſts and bone-fires, that both ſea and land</l>
+               <l>May hear our happineſſe, and joyfull ſtand:</l>
+               <l>To ſee great <hi>Charles</hi> (his anger ſmoothed) ſmile,</l>
+               <l>And kiſſe his mother; from whoſe love ere while,</l>
+               <l>Seditious ſycophants had him eſtrang'd,</l>
+               <l>And ſought (O wickedneſſe! Heaven will reveng't)</l>
+               <l>To break that band, in which great <hi>Brittane</hi> ſtood</l>
+               <l>After ſo many ages, ſo much bloud;</l>
+               <l>But were deceiv'd at laſt: Hell, <hi>Rome,</hi> and <hi>Spaine,</hi>
+               </l>
+               <l>Thanks be to heaven, have ſpent their ſpight in vaine,</l>
+            </lg>
+            <lg>
+               <l>Faiths great defender, world-divided King,</l>
+               <l>King of a world, which to thy wiſh can bring</l>
+               <l>All what thy pleaſure, or thy power require,</l>
+               <l>To make thee happie in thy hearts deſire:</l>
+               <l>If in this ſtorme of joy and pompous throng</l>
+               <l>Old <hi>Tweed,</hi> thy Kingdomes limite (ah too long!)</l>
+               <l>
+                  <pb n="2" facs="tcp:180812:2"/>
+                  <!-- PDF PAGE 7 -->May have acceſſe, and that thy gracious ear,</l>
+               <l>Will daigne his harſh and lowly ſong to hear,</l>
+               <l>While teares of joy his holy breaſt bedew,</l>
+               <l>And paſſion paints his cheeks with purple hew:</l>
+               <l>'T may be the freedome of his plaine diſcourſe,</l>
+               <l>Will not offend or make thee like him worſe.</l>
+               <l>Two hundreth and five luſtres did my ſtreames</l>
+               <l>Runne neutrall, and divide thy joyned realmes,</l>
+               <l>Which in times fulneſſe thy wiſe happy Sire,</l>
+               <l>Sent from above combin'd in one Empire.</l>
+               <l>How oft they chang'd their criſtall into bloud,</l>
+               <l>And ſaw their banks o'er ſhadowed with a wood</l>
+               <l>Of briſtling lances, numbrous hoſts and powers,</l>
+               <l>Whoſe might made right, and ſaccag'd towns and towers,</l>
+               <l>As wars ambiguous iſſue gave the lot</l>
+               <l>Of Thee and thine for ever be forgot:</l>
+               <l>Since now the Heavens have made thy <hi>Albion,</hi>
+               </l>
+               <l>In palmie peace united <hi>All-be-one;</hi>
+               </l>
+               <l>And ſtill ſhall be (ſo long as dayes bright Carre</l>
+               <l>Doth light the World) a world without a warre.</l>
+               <l>Though Hell-born <hi>Python,</hi> and that curſed crew,</l>
+               <l>From whom the Serpents teeth to ſlaughter grew,</l>
+               <l>With poyſon'd tongues into thine ears have powr'd</l>
+               <l>Their venome, and unſheath'd thy royall ſword,</l>
+               <l>Againſt thy loyall Subjects: Seeking ſo</l>
+               <l>Both Churches fall, and Kingdomes overthrow.</l>
+               <l>The pride of prieſts thy power muſt maintaine,</l>
+               <l>Be 't neer ſo loftie, mutinous and vaine.</l>
+               <l>Their ſleeves as full of vengeance as of winde,</l>
+               <l>Swell proud if they leaſt oppoſition finde,</l>
+               <l>So high, that they thy Scepters help reclaime,</l>
+               <l>Which muſt ſupport them both from hurt and blame,</l>
+               <l>And even th<gap reason="illegible: damage" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Crowne the Mitre muſt uphold,</l>
+               <l>Whoſe hornes point higher then thy pearls and gold.</l>
+               <l>O Heavens! Is that religions modeſt gate</l>
+               <l>To hoiſe a topſaile of ſuch pompe and ſtate?</l>
+               <l>
+                  <pb n="3" facs="tcp:180812:2"/>
+                  <!-- PDF PAGE 7 -->Saint <hi>Peters</hi> maſter never taught that lore;</l>
+               <l>Whoſe humble meekneſſe is commended more.</l>
+               <l>Theſe wolves diſguis'd in lambskins, not content</l>
+               <l>To ſow ſedition till the ſtate be rent,</l>
+               <l>Broach ſchiſmes, and ſuperſtitious hereſies,</l>
+               <l>With power obtruded from their Hierarchies:</l>
+               <l>And make it now Church-treaſon to controule</l>
+               <l>Their Canons which give body, law, and ſoule.</l>
+               <l>That Court which from the high Commiſſions name,</l>
+               <l>Did over all a juriſdiction claime,</l>
+               <l>And would at pleaſure, fine, confine, and uſe</l>
+               <l>A boundleſſe freedome, did thy power abuſe,</l>
+               <l>And ſought to take thy Scepter from thy hand,</l>
+               <l>Since <hi>Englands</hi> Prelates for that right did ſtand.</l>
+               <l>(And gain'd it by thy grant a few years ſince)</l>
+               <l>To ſeparat the Church, and ſleight the Prince:</l>
+               <l>What e're their maine intentions aime to reach.</l>
+               <l>'Tis thy prerogative they alwayes preach.</l>
+               <l>Thine intreſt ſtill is next, thine Honour ſuffers,</l>
+               <l>When Church or Countrey ſhunne what Poperie proffers</l>
+               <l>Wrapt up in gaudie tires and gloſſing termes,</l>
+               <l>With cer'monies like exorciſmes or charmes.</l>
+               <l>And then thy Royall hand is either bound</l>
+               <l>To right thy ſelf in them, or thou'rt uncrownd:</l>
+               <l>Baſe impudence! The horned beaſt of <hi>Rome,</hi>
+               </l>
+               <l>By ſuch by-wayes crept up in <hi>Caeſars</hi> roome.</l>
+               <l>Conformitie they urge, and grudge to ſee</l>
+               <l>
+                  <hi>Englands</hi> triumphant Church ſhould greater be</l>
+               <l>Then <hi>Scotlands</hi> militant in wealth and power,</l>
+               <l>Which made the daughter earſt the Dame devoure.</l>
+               <l>And he who from a private Pedant late,</l>
+               <l>Could climb by favour a cathedrall Seat,</l>
+               <l>Lookd down in ſcorne upon thy nobleſt Peers:</l>
+               <l>And ſleight'd the Statſmans purple that he wears.</l>
+               <l>'Tis ſtrange Religion that ſhould ſhew the way</l>
+               <l>To others, ſhould her ſelf firſt go aſtray.</l>
+               <l>
+                  <pb n="4" facs="tcp:180812:3"/>
+                  <!-- PDF PAGE 8 -->And laying all true pietie aſide,</l>
+               <l>For worldly ends, turne puritie in pride.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Scotland</hi> was by their Conclave firſt ordain'd</l>
+               <l>To be the Theater, this Church unſtain'd,</l>
+               <l>With <hi>Romiſh</hi> rites, which preach'd the Goſpel pure,</l>
+               <l>The weakeſt thought, did ſeeme the place moſt ſure,</l>
+               <l>To act the Prelats plot, which <hi>Rome</hi> had laid,</l>
+               <l>And meant with great applauſe to have it plaid:</l>
+               <l>The Common Prayer was the name it had,</l>
+               <l>Written (as was alleadg'd) by Biſhop <hi>Laad:</hi>
+               </l>
+               <l>Strange ſcenes, new ſongs; and action, masks, and cloaths,</l>
+               <l>Had made it fine, with many pretty ſhows,</l>
+               <l>If it had been preſented: But it found</l>
+               <l>So hard a welcome, that the name did wound</l>
+               <l>The peoples hearts and ears, who begg'd with tears,</l>
+               <l>No puppet play might interrupt their prayers:</l>
+               <l>The Biſhops rail'd and ragd to be refuſde,</l>
+               <l>Curſde, ſwore, the Church and King were both abuſde,</l>
+               <l>If ſo the raſcall multitude withſtood,</l>
+               <l>What ever ſort of worſhip they found good:</l>
+               <l>And calling Thee from out thy royall cares,</l>
+               <l>To countenance (great King) that plot of theirs,</l>
+               <l>Could ſo prevaile with their pernicious lies,</l>
+               <l>To make Thee in thine anger, arme and riſe,</l>
+               <l>As if thine honour at the ſtake had layne,</l>
+               <l>And <hi>Scotland</hi> now rebellious armes had taine.</l>
+               <l>My Nymphs did ſhroud them in their ſedgie bowres,</l>
+               <l>At thy reproach, and frighted left their flowres,</l>
+               <l>Their ſport and dancing, where the harmeleſſe Swaines,</l>
+               <l>In both my banks ſat piping. Hills and plaines,</l>
+               <l>A plantive Echo ſent, at the dread ſound,</l>
+               <l>Of drummes and trumpets, ſquadrons marching round.</l>
+               <l>Yea, I my ſelf ſurpriſed with the ſight,</l>
+               <l>Mine eyes miſtruſted which were dazled quite.</l>
+               <l>With glancing helmes and ſhields; ſo proud a train,</l>
+               <l>Since bleſt <hi>Elizas</hi> dayes and happie raigne,</l>
+               <l>
+                  <pb n="5" facs="tcp:180812:3"/>
+                  <!-- PDF PAGE 8 -->I had not ſeene, when wars did end in peace,</l>
+               <l>And <hi>Brittaine</hi> on my banks did firſt embrace</l>
+               <l>Thy happy Syre. O <hi>Charles!</hi> my hoarie head</l>
+               <l>I hung for ſorrow, and my heart did bleed</l>
+               <l>To ſee the iron age returne again,</l>
+               <l>Where thine own hands ſhould in thy bowels ſtain</l>
+               <l>Thy burning-brand. Accurſed be, I ſaid,</l>
+               <l>Theſe Hell-borne monſters, have this miſchief bred;</l>
+               <l>While here no noiſe, no breach of peace, nor jarre,</l>
+               <l>As was of old, gave fire unto the warre.</l>
+               <l>Yet when thy royall breaſt began to ponder,</l>
+               <l>The ſtate of things, amaz'd with joy and wonder,</l>
+               <l>To finde thy <hi>Scotland</hi> (farre from what they made her,</l>
+               <l>Whoſe wicked counſels wiſht thee to invade her)</l>
+               <l>Fall at thy feet, her ſelf and armes lay down,</l>
+               <l>Which ſhe (but to defend Gods Church, thy Crowne,</l>
+               <l>Her Lawes and liberties) did threatned take,</l>
+               <l>No boot nor conqueſt o'er my ſtreame to make,</l>
+               <l>And from that due obedience, loyaltie,</l>
+               <l>Had never ſwervde, which once ſhe ſwore to Thee.</l>
+               <l>Thou ſawſt (dread Prince) thy mothers Churches teares</l>
+               <l>Wipt them away, and cleard thy countreys fears:</l>
+               <l>That King by whom Kings reigne, both knew thy grief,</l>
+               <l>And her affliction, which required relief.</l>
+               <l>And He it was inſpirde thy royall heart</l>
+               <l>T' accept thy Subjects love, and to avert</l>
+               <l>That ſtorme of wrath, which brought thee to theſe bounds,</l>
+               <l>Big ſwolne with furie, breathing death and wounds.</l>
+               <l>What ever falſe aſperſion hath been put</l>
+               <l>Upon thy people, here thou foundſt it not.</l>
+               <l>The black-mouthd Hell-hounds that did belch their gall,</l>
+               <l>To make them foule, and in thy vengeance fall:</l>
+               <l>Now lurk in darkneſſe, and their faces hide,</l>
+               <l>And dare, nor can not Truths pure light abide.</l>
+               <l>But God will rouze them, and his juſtice rod</l>
+               <l>Shall ſcourge them that dare jump with King and God.</l>
+            </lg>
+            <lg>
+               <pb n="6" facs="tcp:180812:4"/>
+               <!-- PDF PAGE 9 -->
+               <l>Now that theſe clouds are clear'd, which darkned late</l>
+               <l>Thy royall favour from this Land and State,</l>
+               <l>Go on great King in glory, ſhine forth bright,</l>
+               <l>And grace thy native <hi>Scotland</hi> with thy ſight,</l>
+               <l>Embrace her zeal, the captiv'd Church deliver,</l>
+               <l>Whoſe vows and prayers, have wiſht thee happie ever.</l>
+               <l>And call'd to witneſſes Heaven and Earth, if ſhee</l>
+               <l>Hath in leaſt thought declin'd thy power or thee,</l>
+               <l>Repaire theſe breaches Schiſmaticks have made,</l>
+               <l>Whoſe tyran yoak, Religion bond-ſlave led,</l>
+               <l>To compaſſe their unluckie ends, and take</l>
+               <l>A power to them, which ſhould thine weaker make.</l>
+               <l>So ſhall heavens bleſſing ſhield thy happy throne,</l>
+               <l>And of the <hi>Stewarts</hi> race ſhall ne'er want one</l>
+               <l>To ſwey great <hi>Brittains</hi> Scepter, while the ſunne</l>
+               <l>To light this lower world, his race ſhall runne.</l>
+            </lg>
+            <lg>
+               <l>From prieſts whoſe pride is temporall and great,</l>
+               <l>Uſurpers in the Government and State,</l>
+               <l>From factious firebrands, from diſſembling Doctors,</l>
+               <l>
+                  <hi>Loyola's</hi> loyall miniſters and Proctours,</l>
+               <l>From Romes emiſſaries, and all that ſeek</l>
+               <l>The Church and Kingdomes happy peace to break:</l>
+               <l>Great <hi>Charles,</hi> our hopefull <hi>Hercules</hi> ſet free</l>
+               <l>This land, which looks to be reliev'd by Thee.</l>
+               <l>And purge it ſo, no dregge nor filth remaine,</l>
+               <l>That doth referre to Rome, or ſmell of <hi>Spaine:</hi>
+               </l>
+               <l>Then ſhall thy <hi>Brittaine</hi> proſper, and thy raigne</l>
+               <l>Bring to the world the golden age againe.</l>
+            </lg>
+            <lg>
+               <l>But ſince all now is one, that <hi>Thames</hi> and <hi>Tweed</hi>
+               </l>
+               <l>An equall intereſt in thy perſon plead,</l>
+               <l>And ſeek who ſhall be nigheſt, though I claime</l>
+               <l>Thy birth and cradle, yet I do not aime</l>
+               <l>At ſuch a Soveraigne ſhare, as to poſſeſſe</l>
+               <l>Thee all alone, that he may have the leſſe.</l>
+               <l>Whom heavens have joyn'd, no earthly power ſhall ſever,</l>
+               <l>And thou ſhalt be a like to both for ever.</l>
+               <l>
+                  <pb n="7" facs="tcp:180812:4"/>
+                  <!-- PDF PAGE 9 -->Though thou be pleaſd to bleſſe with thine abode,</l>
+               <l>His happy banks, and ſeldome com'ſt abroad,</l>
+               <l>To grace me with thy preſence, I preſume</l>
+               <l>In thy affection <hi>Tweed</hi> with <hi>Thames</hi> doth come</l>
+               <l>In equall ballance. But I grieve to ſee</l>
+               <l>Some wicked ſpirits ſtrive to poyſon thee,</l>
+               <l>With lies and railing, (if they could) to make</l>
+               <l>Thee hate thy Countrey and their love forſake.</l>
+               <l>Theſe vipers hatcht in venome, ſpew their ſpite</l>
+               <l>In Paſquills, Ballads, ſtriving to excite</l>
+               <l>Thy furie, and revive the long unquenchd fire,</l>
+               <l>Whoſe aſhes drench'd in bloud of thine Empire,</l>
+               <l>The ground ſtone-laid and labour to defame</l>
+               <l>Thy noble Anceſtors with ſcorne and ſhame:</l>
+               <l>What battels earſt were in old quarrels fought,</l>
+               <l>Before this happy Union could be wrought,</l>
+               <l>They now reproach, and vaunt ſtrange victories,</l>
+               <l>Of pris'ner Kings, which were but treacheries:</l>
+               <l>For when firſt <hi>James</hi> a childe, and bowne for <hi>France,</hi>
+               </l>
+               <l>Through ſtorme caſt in at <hi>Flambourgh</hi> by chance,</l>
+               <l>Was contrare to all court'ſie, law, and right</l>
+               <l>Detain'd by treaſon, but not tane in fight,</l>
+               <l>The conqueſts glory was not very great,</l>
+               <l>Nor can they boaſt ſo much of our defeat.</l>
+               <l>But will theſe villaines call to minde how once,</l>
+               <l>When <hi>Englands</hi> crowne was loſt, the royall ones,</l>
+               <l>By proud uſurping <hi>Steven</hi> diſpoſſeſt,</l>
+               <l>Who did himſelf into the throne inveſt;</l>
+               <l>That ſecond <hi>Henrie</hi> with his Uncles aid,</l>
+               <l>
+                  <hi>Scotlands</hi> third <hi>Alexander,</hi> who did invade</l>
+               <l>With mighty powers that Kingdome, and conſtraine</l>
+               <l>Th'uſurper to reſtore their crowne againe:</l>
+               <l>They'le ſay that <hi>Scotland</hi> could for them do more</l>
+               <l>Then they could for themſelves, and them reſtore,</l>
+               <l>To Crowne and Kingdome, though ſhe boaſt it not,</l>
+               <l>But (with more favours) hath it quite forgot.</l>
+            </lg>
+            <lg>
+               <pb n="8" facs="tcp:180812:5"/>
+               <!-- PDF PAGE 10 -->
+               <l>Great King confound theſe monſters, cruſh their necks,</l>
+               <l>That would diſturbe our peace with flowts and checks,</l>
+               <l>
+                  <hi>Tyburnes</hi> triangle trees their portion be,</l>
+               <l>That ſo do ſleight thy Countrey, ſcoffe at thee.</l>
+            </lg>
+            <lg>
+               <l>One thing thy <hi>Tweed</hi> would humbly beg for all,</l>
+               <l>Great <hi>Charles,</hi> and proſtrate at thy feet doth fall,</l>
+               <l>To gain thy grant. Thou ſeeſt what armed bands</l>
+               <l>Thy will can raiſe, and even thy wink commands.</l>
+               <l>They if thou ſpeak the word, can ſack proud <hi>Rome,</hi>
+               </l>
+               <l>And give the Law for Thee to Chriſtendome:</l>
+               <l>While yet their armes are clear, their courage hot,</l>
+               <l>Doe not, O mighty King! diſſolve them not,</l>
+               <l>But let <hi>Eliza</hi> lead them to her Rhine,</l>
+               <l>And repoſſeſſe her there. Her cauſe is thine;</l>
+               <l>Theſe hopefull Princes, that Thee Uncle call,</l>
+               <l>Pearls of that Crowne, which from her head did fall:</l>
+               <l>All beg the ſame, and even with teares intreat,</l>
+               <l>Brave <hi>Rupert</hi> may at libertie be ſet,</l>
+               <l>And that thy <hi>Scots</hi> may on proud <hi>Isters</hi> ſtreames</l>
+               <l>Their valour ſhow, and with thy Nephews names,</l>
+               <l>In wounds and bloud on <hi>Vienns</hi> battered walls,</l>
+               <l>Which boaſt that royall ſpoil, and Princes thrals.</l>
+            </lg>
+            <lg>
+               <l>So mayſt thou mighty Monarch live and raigne</l>
+               <l>In glorie, till that King returne againe,</l>
+               <l>Who ſhall with endleſſe glorie crown thy browes,</l>
+               <l>And lead thee to theſe joyes which heart not knowes,</l>
+               <l>Eye hath not ſeen, nor can the Soule conceive,</l>
+               <l>Untill he do it of free grace receive:</l>
+               <l>May earth all fear and love Thee, and thy name</l>
+               <l>Fill all the world with never-dying fame,</l>
+            </lg>
+            <trailer>FINIS<g ref="char:punc">▪</g>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
